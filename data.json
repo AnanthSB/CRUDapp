@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "name": "ananth",
+      "username": "ananth",
+      "email": "ananth@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "laxmi",
+      "username": "prasanna",
+      "email": "prasanna@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "kiran",
+      "username": "rao",
+      "email": "kiran@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Gama",
+      "username": "gamasdvfdsvb",
+      "email": "gama@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "merhcant",
+      "username": "man",
+      "email": "merchant@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "jack",
+      "username": "chain",
+      "email": "jack@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "Hello",
+      "username": "World",
+      "email": "admin@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "sahil",
+      "username": "kumar",
+      "email": "sahil@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "sahil",
+      "username": "kumar",
+      "email": "sahil@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "jha",
+      "username": "jhi",
+      "email": "jha@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "jai",
+      "username": "ho",
+      "email": "jai@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "ji",
+      "username": "ji",
+      "email": "ji",
+      "id": 20
+    },
+    {
+      "name": "AnanthS",
+      "username": "Shetty",
+      "email": "ananth123@gmail.com",
+      "id": 22
+    }
+  ]
+}
