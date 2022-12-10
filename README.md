@@ -1,13 +1,15 @@
 # CRUDapp
 
+Steps to go through this app.
+
 1>> npm install
 
-2>> open the command shell in CRUDapp directory.
+2>> open the command prompt in CRUDapp directory.
 
-3>> hit the below command
-  json-server --watch data.json --port 3008
+3>> hit the below command to run local server to perform CRUD operations.
+  json-server --watch data.json --port 3007
   
-4>> open one more command shell and hit the below command
+4>> open one more command shell and hit the below command to run react app.
   npm run start
   
 A snapshot to showcase the visual look of the this CRUD app
