@@ -7,6 +7,7 @@ Steps to go through this app.
 2>> open the command prompt in CRUDapp directory.
 
 3>> hit the below command to run local server to perform CRUD operations.
+
   json-server --watch data.json --port 3007
   
 4>> open one more command shell and hit the below command to run react app.
